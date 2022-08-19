@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["PathTransform","`PathTransform` substitutes path in SyntaxNodes in bulk."]]};

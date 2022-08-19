@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ReprKind",""],["StructKind",""],["VariantData",""]],"struct":[["EnumData",""],["EnumVariantData",""],["FieldData","A single field of an enum variant or struct"],["StructData","Note that we use `StructData` for unions as well!"]]};

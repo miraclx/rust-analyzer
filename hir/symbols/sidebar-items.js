@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["FileSymbolKind",""]],"struct":[["DeclarationLocation",""],["FileSymbol","The actual data that is stored in the index. It should be as compact as possible."],["SymbolCollector",""]]};

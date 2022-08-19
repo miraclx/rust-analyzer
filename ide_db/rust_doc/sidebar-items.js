@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["is_rust_fence",""]]};

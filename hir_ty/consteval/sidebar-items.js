@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ComputedExpr",""],["ConstEvalError",""]],"fn":[["eval_const",""],["intern_const_scalar","Interns a constant scalar with the given type"],["unknown_const",""],["unknown_const_as_generic",""],["usize_const","Interns a possibly-unknown target usize"]],"struct":[["ConstEvalCtx",""]],"trait":[["ConstExt","Extension trait for [`Const`]"]]};

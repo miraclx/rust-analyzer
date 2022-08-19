@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["RawVisibility","Visibility of an item, not yet resolved."],["Visibility","Visibility of an item, with the path resolved."]]};

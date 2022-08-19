@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ModuleOrigin",""],["ModuleSource",""]],"mod":[["attr_resolution","Post-nameres attribute resolution."],["diagnostics","Diagnostics emitted during DefMap construction."],["proc_macro","Nameres-specific procedural macro data and helpers."]],"struct":[["DefMap","Contains the results of (early) name resolution."],["ModuleData",""]]};

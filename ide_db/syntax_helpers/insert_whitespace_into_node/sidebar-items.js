@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["insert_ws_into","Renders a [`SyntaxNode`] with whitespace inserted between tokens that require them."]]};

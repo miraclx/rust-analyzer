@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Limit","Represents a struct used to enforce a numerical limit."]]};

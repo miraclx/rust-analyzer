@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["BuiltinFloat",""],["BuiltinInt","Different signed int types."],["BuiltinType",""],["BuiltinUint","Different unsigned int types."]]};
